@@ -1,4 +1,4 @@
-#mobilevis.github.io
+# mobilevis.github.io
 
 ## Configuring site properties
 
@@ -10,7 +10,7 @@ You can edit the [index.md](index.md) amd [about.md](about.md) pages here and ch
 
 ## Adding posts
 
-Add posts in .md format to the [_posts](master/_posts) directory. Posts should be named following the `YYYY-MM-DD-post-title.md` convention.
+Add posts in .md format to the [_posts](_posts) directory. Posts should be named following the `YYYY-MM-DD-post-title.md` convention.
 
 ## Editing the style
 
