@@ -4,9 +4,9 @@ title: Organizers
 permalink: /organizers/
 ---
 
-<img src="../assets/organizers.png" title="Workshop Organizers (R-L): Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt"  alt="Workshop Organizers (R-L): Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt" style="width: 100%;"/>
+<img src="../assets/organizers.png" title="Workshop Organizers (Left to Right): Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt"  alt="Workshop Organizers (Left to Right): Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt" style="width: 100%;"/>
 
-**Workshop Organizers (R-L)**: Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt.
+**Workshop Organizers (L<i class="fa fa-arrow-right" aria-hidden="true"></i>R)**: Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt.
 
 Our organization team is comprised of members having several relevant qualifications that will ensure a successful workshop. The core background of our team members range from visualization research (Brehmer, Isenberg, Lee) to HCI (Choe, Dachselt, Langner, Lee) to UbiComp (Choe). All team members have previously organized industry and academic workshops in several venues, and have extensive experience reviewing publications for international conferences, workshops, and symposia. Furthermore, all workshop organizers are committed, responsible, and highly motivated to organize this workshop.
 
