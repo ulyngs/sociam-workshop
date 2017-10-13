@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+<img src="assets/mobilevis.png" alt="MobileVis" style="width: 180px;"/>
