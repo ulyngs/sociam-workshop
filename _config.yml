@@ -16,7 +16,7 @@
 title: Data Visualization on Mobile Devices
 email: mobilevisualization@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A workshop organized by Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Riacardo Langer, and Raimund Dachselt
+  A CHI 2018 workshop organized by Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Riacardo Langer, and Raimund Dachselt
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mobilevis
