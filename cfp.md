@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Call for Participation
+title: Call For Participation
+slug: CFP
 permalink: /cfp/
 ---
 
