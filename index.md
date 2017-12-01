@@ -4,4 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<img src="../assets/organizers.png" title="Workshop Organizers (Left to Right): Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt"  alt="Workshop Organizers (Left to Right): Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt" style="width: 100%;"/>
+<img src="../assets/teaser.png" title="Data Visualization on Mobile Devices Workshop"  alt="Data Visualization on Mobile Devices Workshop" style="width: 100%;"/>
+
+The **Data Visualization on Mobile Devices workshop at CHI 2018** is intended to be a platform to exchange information and experiences, to stimulate discussion, and to answer the following questions:  
+
+- *What are the mobile-inherent and application-specific challenges in designing interfaces for visualizing and exploring data on mobile devices?*
+- *How can we address these challenges?*
+- *What are new and exciting ways to use mobile devices for data visualization?*
+
+This workshop will bring participants with diverse backgrounds together to identify the most pressing mobile visualization challenges that evolve out of practice and to establish opportunities for future collaboration. See the **[Call for Participation](/cfp)** to get involved.

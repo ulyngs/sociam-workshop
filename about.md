@@ -8,7 +8,7 @@ permalink: /about/
 
 <img src="../assets/organizers.png" title="Workshop Organizers (Left to Right): Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt"  alt="Workshop Organizers (Left to Right): Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langer, and Raimund Dachselt" style="width: 100%;"/>
 
-**(L<i class="fa fa-arrow-right" aria-hidden="true"></i>R)**: Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langner, and Raimund Dachselt.
+**(L to R)**: Bongshin Lee, Matthew Brehmer, Eun Kyoung Choe, Petra Isenberg, Ricardo Langner, and Raimund Dachselt.
 
 Our organization team is comprised of members having several relevant qualifications that will ensure a successful workshop. The core background of our team members range from visualization research (Brehmer, Isenberg, Lee) to HCI (Choe, Dachselt, Langner, Lee) to UbiComp (Choe). All team members have previously organized industry and academic workshops in several venues, and have extensive experience reviewing publications for international conferences, workshops, and symposia. Furthermore, all workshop organizers are committed, responsible, and highly motivated to organize this workshop.
 
@@ -24,3 +24,18 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 <i class="fa fa-user" aria-hidden="true"></i> [Ricardo Langner](https://imld.de/our-group/team/ricardo-langner/) ([@riclangner](https://twitter.com/riclangner)) is a Ph.D. student at the Technische Universität Dresden. His research focuses on the combination of multiple displays, such as mobile devices, interactive tabletops, and large shared displays, for information visualization. In particular, he explores new and innovative ways of using mobile devices to support data exploration with multiple coordinated visualization views.
 
 <i class="fa fa-user" aria-hidden="true"></i> [Raimund Dachselt](https://imld.de/our-group/team/raimund-dachselt/) ([@RaimundDachselt](https://twitter.com/RaimundDachselt)) is a full university professor for Computer Science at Technische Universität Dresden and a director of the Interactive Media Lab Dresden. His research focuses on Natural User Interface (NUI) approaches with various input modalities on interactive surfaces and in multi-display environments. His team contributed several solutions applying NUI techniques to the field of Information Visualization and Immersive Analytics. He received his Ph.D. in Computer Science from TU Dresden in 2004.
+
+## Image Credits
+
+<img src="../assets/teaser.png" title="Data Visualization on Mobile Devices Workshop"  alt="Data Visualization on Mobile Devices Workshop" style="width: 100%;"/>
+
+The image on the left uses two Creative Commons CCBY icons from [The Noun Project](https://thenounproject.com/): "[Sankey Chord](https://thenounproject.com/icon/628599/#)" by [Kirby Wu, TW](https://thenounproject.com/tkirby) (the color was our modification) and "[Phone](https://thenounproject.com/icon/1285473/)" by [novita dian, ID](https://thenounproject.com/novitaastri2011).
+
+The other images originally appeared in papers co-authored by the workshop organizers, from left to right: 
+
+- Jaemin Jo, Sehi L'Yi, Bongshin Lee, and Jinwook Seo. 2017. [TouchPivot: Blending WIMP & Post-WIMP Interfaces for Data Exploration on Tablet Devices](https://doi.org/10.1145/3025453.3025752). In *Proceedings of the 2017 ACM CHI Conference on Human Factors in Computing Systems (CHI)*. [doi: 10.1145/3025453.3025752](https://doi.org/10.1145/3025453.3025752).
+
+- Ricardo Langner, Tom Horak, and Raimund Dachselt. 2018. [VisTiles: Coordinating and Combining Co-located Mobile Devices for Visual Data Exploration](http://dx.doi.org/10.1109/TVCG.2017.2744019). In *IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2017)* 24, 1 (2018). [doi: 10.1109/TVCG.2017.2744019](http://dx.doi.org/10.1109/TVCG.2017.2744019).
+
+- Ulrike Kister, Konstantin Klamka, Christian Tominski, and Raimund Dachselt. 2017. [GraSp: Combining Spatially-aware Mobile Devices and a Display Wall for Graph Visualization and Interaction](http://dx.doi.org/10.1111/cgf.13206). In *Computer Graphics Forum* 36, 3 (2017). [doi: 10.1111/cgf.13206](http://dx.doi.org/10.1111/cgf.13206).
+
