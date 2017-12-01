@@ -27,7 +27,7 @@ We will select participants according to originality/controversy of the paper, c
 At least one author of each accepted paper must attend the workshop and all workshop participants must register not only for the workshop but also for at least one day of the **[2018 ACM CHI conference](https://chi2018.acm.org/)**. 
 
 ### Important Dates:
-- **Friday, December 8, 2017**: Submission portal opens. Details regarding where to submit your workshop paper will be announced by this date.
+- **January, 2017**: Submission portal opens. Details regarding where to submit your workshop paper will be announced by this date.
 - **Friday, February 2, 2018**: Workshop paper deadline
 - **Thursday, Feburary 22, 2018**: Notification of acceptance
 - **TBA**: Conference early registration deadline 
