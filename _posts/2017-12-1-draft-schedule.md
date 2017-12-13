@@ -23,6 +23,7 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **16.45 - 17.45** 	| Breakout session & brainstorming    	| 60 min. 	|
 | **17.45 - 18.00** 	| Workshop wrap-up and closing        	| 15 min. 	|
 
+
 After an opening, the morning session allows all participants to briefly introduce themselves by means of short paper and position statement presentations. To avoid the semblance of a small conference, we encourage short presentations ~5 minutes for individual contributions. Depending on the number of submissions, we plan to have 2-4 thematically grouped presentation sessions in the morning. Each round will end with a short wrap-up discussion to seek a common ground for afternoon discussions. These morning session also allows time for invited talks by selected experts from research communities and industry.
 
 After a joint lunch, which allows participants to meet and network informally, the workshop will continue with hands-on experiences in a relaxed demo atmosphere. Short demonstrations of different forms of prototypes, including sketches, case studies, and implementations (solicited from workshop participants and industry), will foster a discussion of state-of-the-art design and implementation approaches.
