@@ -33,7 +33,7 @@ We will select submissions based on a number of criteria, including originality 
 At least one author of each accepted paper must attend the workshop and all workshop participants must register not only for the workshop but also for at least one day of the **[2018 ACM CHI conference](https://chi2018.acm.org/)**. 
 
 ### Important Dates:
-- **January, 2018**: The **[submission portal](https://easychair.org/conferences/?conf=mobilevis2018)** ([easychair.org/conferences/?conf=mobilevis2018](https://easychair.org/conferences/?conf=mobilevis2018)) will open. 
+- **January, 2018**: The **[submission portal](https://easychair.org/conferences/?conf=mobilevis2018)** will open. 
 - **Friday, February 2, 2018**: Workshop paper deadline
 - **Thursday, February 22, 2018**: Notification of acceptance
 - **TBA**: Conference early registration deadline 
