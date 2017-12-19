@@ -37,4 +37,4 @@ At least one author of each accepted paper must attend the workshop and all work
 - **Friday, February 2, 2018**: Workshop paper deadline
 - **Thursday, February 22, 2018**: Notification of acceptance
 - **TBA**: Conference early registration deadline 
-- **Saturday, April 21, 2018**: The workshop will take place on one of these two days (TBA), as part of the **[2018 ACM CHI conference](https://chi2018.acm.org/)** in Montréal, Canada 
+- **Saturday, April 21, 2018**: The workshop will take place as part of the **[2018 ACM CHI conference](https://chi2018.acm.org/)** in Montréal, Canada 
