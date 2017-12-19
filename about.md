@@ -27,6 +27,16 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 
 <i class="fa fa-user" aria-hidden="true"></i> **[Raimund Dachselt](https://imld.de/our-group/team/raimund-dachselt/)** ([@RaimundDachselt](https://twitter.com/RaimundDachselt)) is a full university professor for Computer Science at Technische Universität Dresden and a director of the Interactive Media Lab Dresden. His research focuses on Natural User Interface (NUI) approaches with various input modalities on interactive surfaces and in multi-display environments. His team contributed several solutions applying NUI techniques to the field of Information Visualization and Immersive Analytics. He received his Ph.D. in Computer Science from TU Dresden in 2004.
 
+## Program Committee
+
+- **Anastasia Bezerianos** (LRI-Université Paris-Sud 11)
+- **Pourang Irani** (University of Mantioba)
+- **Steven Drucker** (Microsoft Research)
+- **Niklas Elmqvist** (University of Maryland, College Park)
+- **Ramik Sadana** (Uber)
+- **Vidya Setlur** (Tableau Software)
+- **John Stasko** (Georgia Institute of Technology)
+
 ## Image Credits
 
 <img src="../assets/teaser.png" title="Data Visualization on Mobile Devices Workshop"  alt="Data Visualization on Mobile Devices Workshop" style="width: 100%;"/>
