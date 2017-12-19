@@ -36,5 +36,5 @@ At least one author of each accepted paper must attend the workshop and all work
 - **January, 2018**: The **[submission portal](https://easychair.org/conferences/?conf=mobilevis2018)** will open. 
 - **Friday, February 2, 2018**: Workshop paper deadline
 - **Thursday, February 22, 2018**: Notification of acceptance
-- **TBA**: Conference early registration deadline 
-- **Saturday, April 21, 2018**: The workshop will take place as part of the **[2018 ACM CHI conference](https://chi2018.acm.org/)** in Montréal, Canada 
+- **TBA**: Conference early registration deadline
+- **Saturday, April 21, 2018**: The workshop will take place as part of the **[2018 ACM CHI conference](https://chi2018.acm.org/)** in Montréal, Canada.
