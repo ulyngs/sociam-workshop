@@ -29,7 +29,9 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 
 ## Program Committee
 
-- **Anastasia Bezerianos** (LRI-Université Paris-Sud 11)
+- **TBA**
+
+<!-- - **Anastasia Bezerianos** (LRI-Université Paris-Sud 11)
 - **Pourang Irani** (University of Mantioba)
 - **Steven Drucker** (Microsoft Research)
 - **Niklas Elmqvist** (University of Maryland, College Park)
@@ -37,7 +39,7 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 - **Ramik Sadana** (Uber)
 - **Sebastian Sadowski** (DataDesign Studio Berlin)
 - **Vidya Setlur** (Tableau Software)
-- **John Stasko** (Georgia Institute of Technology)
+- **John Stasko** (Georgia Institute of Technology) -->
 
 ## Image Credits
 
