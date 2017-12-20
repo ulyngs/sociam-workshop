@@ -33,7 +33,9 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 - **Pourang Irani** (University of Mantioba)
 - **Steven Drucker** (Microsoft Research)
 - **Niklas Elmqvist** (University of Maryland, College Park)
+- **Alark Joshi** (University of San Francisco)
 - **Ramik Sadana** (Uber)
+- **Sebastian Sadowski** (DataDesign Studio Berlin)
 - **Vidya Setlur** (Tableau Software)
 - **John Stasko** (Georgia Institute of Technology)
 
