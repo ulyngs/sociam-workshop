@@ -37,6 +37,7 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 - **Niklas Elmqvist** (University of Maryland, College Park)
 - **Matthew Kay** (University of Michigan)
 - **Alark Joshi** (University of San Francisco)
+- **Roman Rädle** (Aarhus University)
 - **Ramik Sadana** (Uber)
 - **Sebastian Sadowski** (DataDesign Studio Berlin)
 - **Vidya Setlur** (Tableau Software)
