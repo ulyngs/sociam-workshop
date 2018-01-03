@@ -40,6 +40,7 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 - **Matthew Kay** (University of Michigan)
 - **Alark Joshi** (University of San Francisco)
 - **Roman Rädle** (Aarhus University)
+- **Amon Rapp** (University of Torino)
 - **Ramik Sadana** (Uber)
 - **Sebastian Sadowski** (DataDesign Studio Berlin)
 - **Vidya Setlur** (Tableau Software)
