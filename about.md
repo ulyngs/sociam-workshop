@@ -29,9 +29,6 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 
 ## Program Committee
 
-- **TBA**
-
-<!-- 
 - **Anastasia Bezerianos** (LRI-Université Paris-Sud 11)
 - **Daniel Epstein** (University of Washington)
 - **Pourang Irani** (University of Mantioba)
@@ -45,7 +42,6 @@ He received his Ph.D. in Computer Science from the University of British Columbi
 - **Sebastian Sadowski** (DataDesign Studio Berlin)
 - **Vidya Setlur** (Tableau Software)
 - **John Stasko** (Georgia Institute of Technology) 
--->
 
 ## Image Credits
 
