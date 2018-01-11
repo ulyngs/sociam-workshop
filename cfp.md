@@ -26,7 +26,7 @@ Submissions should cover contributions on visualizing data on various mobile dev
 - Evaluation methods
 - Best practices and pitfalls in the design process
 
-Please submit a paper to the **[EasyChair system](https://easychair.org/conferences/?conf=mobilevis2018)** ([https://easychair.org/conferences/?conf=mobilevis2018](https://easychair.org/conferences/?conf=mobilevis2018))}.
+Please submit a paper to the **[EasyChair system](https://easychair.org/conferences/?conf=mobilevis2018)** ([https://easychair.org/conferences/?conf=mobilevis2018](https://easychair.org/conferences/?conf=mobilevis2018)).
 
 We will select submissions based on a number of criteria, including originality or controversy of the paper, the complementary nature of the authors' research background, and the quality of the authors' previous work related to the workshop topic.
 
